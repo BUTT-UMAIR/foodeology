@@ -1,0 +1,2 @@
+class FoodItemCategory < ApplicationRecord
+end
