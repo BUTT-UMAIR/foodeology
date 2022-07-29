@@ -1,0 +1,2 @@
+class FoodItemsFastFoodPizza < ApplicationRecord
+end
